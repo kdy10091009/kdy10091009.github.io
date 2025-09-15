@@ -4,7 +4,7 @@
 const projects = [
   {
     title: "Google Map Application Project",
-    image: "/assets/img/google-map-thumbnail.png",
+    image: "/assets/img/google-map-thumbnail.jpeg",
     summary:
       "A geographic information system (GIS) that provides users with information about various locations around the globe.",
     details: [
