@@ -4,7 +4,7 @@
 const projects = [
   {
     title: "Google Map Application Project",
-    image: "/assets/img/project-music-player.png",
+    image: "/assets/img/google-map-thumbnail.png",
     summary:
       "A geographic information system (GIS) that provides users with information about various locations around the globe.",
     details: [
@@ -20,7 +20,7 @@ const projects = [
   },
   {
     title: "Table Hockey Design Project",
-    image: "/assets/img/project-quizup-logo-1.png",
+    image: "/assets/img/table-hockey-thumbnail.png",
     summary:
       "Implemented a Table Hockey game on an FPGA board (DE1-SoC) using C and ARM assembly language.",
     details: [
@@ -34,7 +34,7 @@ const projects = [
   },
   {
     title: "Engineering Strategies & Practices II Project",
-    image: "/assets/img/project-blog-logo.jpg",
+    image: "/assets/img/esp2-thumbnail.png",
     summary:
       "A design project to develop a workable solution to boost TTC Line 1 subway ridership during COVID-19.",
     details: [
@@ -46,7 +46,7 @@ const projects = [
   },
   {
     title: "Reversi Game",
-    image: "/assets/img/project-aim_bert-bias.png",
+    image: "/assets/img/reversi-thumbnail.png",
     summary: "A text-based Reversi game.",
     details: [
       "Tool: C",
