@@ -46,7 +46,7 @@ const projects = [
     image: "/assets/img/reversi-thumbnail.png",
     summary: "A text-based Reversi game.",
     details: [
-      "Tool: C",
+      "<b>Tool:</b> C",
       "Built a text-based Reversi game in C with move computation algorithms for human and AI players.",
     ],
     demo: "",
