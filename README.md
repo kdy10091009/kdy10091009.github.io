@@ -75,5 +75,8 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 
 - 🔃 Create a new pull request.
 
+## Lab 0 Activities
+#### Activity 1
+
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.

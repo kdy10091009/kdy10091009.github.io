@@ -1,6 +1,3 @@
-
-
-// 1) 프로젝트 배열 (네 것에 맞게만 수정)
 const projects = [
   {
     title: "Google Map Application Project",
@@ -68,17 +65,19 @@ function buildCardHTML(p) {
   if (Array.isArray(p.details)) {
     for (const d of p.details) details += `<li>${d}</li>`;
   }
+  const image = p.image || "/assets/img/placeholder-image.png";
+  const title = p.title || "";
   const summary = p.summary || "";
 
   return `
     <div class="col s12 m6 l4">
       <div class="card medium">
         <div class="card-image waves-effect waves-block waves-light">
-          <img src="${p.image}" alt="${p.title}" class="activator" style="height:100%;width:100%;">
+          <img src="${image}" alt="${title}" class="activator" style="height:100%;width:100%;">
         </div>
         <div class="card-content">
           <span class="card-title activator teal-text hoverline">
-            ${p.title}
+            ${title}
             <i class="mdi-navigation-more-vert right"></i>
           </span>
           <p>${summary}</p>
