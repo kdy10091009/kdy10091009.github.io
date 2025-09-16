@@ -76,7 +76,22 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 - 🔃 Create a new pull request.
 
 ## Lab 0 Activities
-#### Activity 1
+### Activity 1
+![Activity 1 Screenshot](./examples/PRA0_screenshots/Activity1.png)
+### Activity 2
+![Activity 2 home page](./examples/PRA0_screenshots/Activity2-home-page.png)
+![Activity 2 repo](./examples/PRA0_screenshots/Activity2-repo.png)
+### Activity 3
+![Activity 3 home page](./examples/PRA0_screenshots/Activity3-home-page.png)
+![Activity 3 repo](./examples/PRA0_screenshots/Activity3-repo.png)
+### Activity 4
+![Activity 4 places travelled](./examples/PRA0_screenshots/Activity4-places-travelled.png)
+![Activity 4 repo](./examples/PRA0_screenshots/Activity4-repo.png)
+### Activity 5
+![Activity 5 recent 1](./examples/PRA0_screenshots/Activity5-recent1.png)
+![Activity 5 recent 2](./examples/PRA0_screenshots/Activity5-recent2.png)
+![Activity 5 recent 3](./examples/PRA0_screenshots/Activity5-recent3.png)
+![Activity 5 repo](./examples/PRA0_screenshots/Activity5-repo.png)
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
